@@ -101,4 +101,6 @@ in main.js
 
 # References
 
+https://rise.readthedocs.io/en/latest/
+
 https://github.com/jossl95/RISE_template
