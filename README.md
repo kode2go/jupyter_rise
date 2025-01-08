@@ -8,6 +8,30 @@ Location:
 C:\Users\...\AppData\Local\miniconda3\share\jupyter\nbextensions\rise
 ```
 
+# Change Theme
+
+In main.js go to `function configLoaded()`
+
+```
+theme: 'sky',
+```
+
+Other themes:
+
+Available Themes in RISE (via Reveal.js)
+
+simple: A minimal, clean theme.
+serif: A theme with serif fonts for a more traditional look.
+solarized: A theme with the Solarized color scheme, ideal for presentations in well-lit environments.
+beige: A light beige-colored theme.
+sky: A light theme with a blue sky background.
+night: A dark-themed presentation with black background and white text.
+black: A pure black background with high-contrast text.
+white: A classic light background with dark text.
+league: A theme that uses a simple, open-source style.
+blood: A red-toned theme with a dark background.
+moon: A dark theme with a bluish background.
+
 # Increase size of cell font and line height
 
 in main.css
@@ -72,3 +96,7 @@ in main.js
 
 	return setup;
 ```
+
+# References
+
+https://github.com/jossl95/RISE_template
