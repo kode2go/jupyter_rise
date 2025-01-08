@@ -20,6 +20,7 @@ Other themes:
 
 Available Themes in RISE (via Reveal.js)
 
+```
 simple: A minimal, clean theme.
 serif: A theme with serif fonts for a more traditional look.
 solarized: A theme with the Solarized color scheme, ideal for presentations in well-lit environments.
@@ -31,6 +32,7 @@ white: A classic light background with dark text.
 league: A theme that uses a simple, open-source style.
 blood: A red-toned theme with a dark background.
 moon: A dark theme with a bluish background.
+```
 
 # Increase size of cell font and line height
 
