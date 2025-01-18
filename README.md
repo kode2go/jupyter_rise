@@ -53,6 +53,15 @@ in main.css
 
 # Add a logo
 
+# Inverted Image
+
+```
+		  var logo = $('<div class="logo"><img src="https://raw.githubusercontent.com/kode2go/jupyter_rise/e72292506d96fb0014878742cdcefcce07827c27/Skillshare_logo_2020_2.svg-modified_inverted.png" alt="Logo" width="100"></div>');
+		  $('body').append(logo);
+```
+
+## From Site
+
 in main.js
 
 ```
