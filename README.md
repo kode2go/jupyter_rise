@@ -38,6 +38,7 @@ moon: A dark theme with a bluish background.
 
 in main.css
 
+minimal code:
 ```
 .rise-enabled .reveal pre {
   transition-property: all;
@@ -50,6 +51,14 @@ in main.css
   overflow: hidden;
 }
 ```
+
+lots of code:
+
+```
+  font-size: 80%;
+  line-height: 1.2; /* Adjust line spacing */
+```
+
 
 # Add a logo
 
